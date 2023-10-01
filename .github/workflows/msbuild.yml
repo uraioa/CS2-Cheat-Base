@@ -47,4 +47,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: msbuild
-        path: D:\a\CS2-Cheat-Base\CS2-Cheat-Base\x64\Release
+        path: D:\a\CS2-Cheat-Base\CS2-Cheat-Base\
